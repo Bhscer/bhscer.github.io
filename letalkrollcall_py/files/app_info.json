@@ -2,5 +2,6 @@
 	"avliable": 1,
 	"close_message": "很遗憾，由于各种原因本项目已停止运行\n我们后会有期\n按回车键退出",
 	"newest_v_code": 2,
-	"update_msg": "改进功能"
+	"update_msg": "改进功能",
+	"update_url": "https://github.com/Bhscer/LetalkRollCall"
 }
