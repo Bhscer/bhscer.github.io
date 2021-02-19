@@ -1,7 +1,7 @@
 {
 	"avliable": 1,
 	"close_message": "很遗憾，由于各种原因本项目已停止运行\n我们后会有期\n按回车键退出",
-	"newest_v_code": 2,
-	"update_msg": "  -增加联网失败5次内重试的功能\n  -优化程序输出文字",
-	"update_url": "https://github.com/Bhscer/LetalkRollCall/releases/tag/v1.00"
+	"newest_v_code": 3,
+	"update_msg": "  -更改识别逻辑减少误识别\n  -推荐进行本次更新!",
+	"update_url": "https://github.com/Bhscer/LetalkRollCall/releases/tag/v1.01"
 }
